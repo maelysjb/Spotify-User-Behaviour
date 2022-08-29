@@ -1,4 +1,6 @@
-DATA: contains all the data used and referenced in the paper, organized with 1 folder per data source
+The data sets are above 25MB and therefore cannot be uploaded to github
+All the links and references to download the datasets are in the report for easy access
+Create a folder per data source to organize the downloads and be able to use the code with limited modifications
 
 music_data_pre.ipynb : opens all the data sources
 spotify_premium_freemium.ipynb : preliminary analysis of premium vs freemium users
