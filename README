@@ -1,0 +1,4 @@
+DATA: contains all the data used and referenced in the paper, organized with 1 folder per data source
+
+music_data_pre.ipynb : opens all the data sources
+spotify_premium_freemium.ipynb : preliminary analysis of premium vs freemium users
