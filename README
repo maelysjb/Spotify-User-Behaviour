@@ -4,3 +4,6 @@ Create a folder per data source to organize the downloads and be able to use the
 
 music_data_pre.ipynb : opens all the data sources
 spotify_premium_freemium.ipynb : preliminary analysis of premium vs freemium users
+
+the ipynb files can be opened and modified via jupyter
+the html files are provided to read and access the files
